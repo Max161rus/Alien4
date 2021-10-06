@@ -1,0 +1,198 @@
+﻿body {
+	/*background: black;*/
+	background-image:url(alien3.jpg);
+	background-attachment: fixed;
+	background-position: top center;
+	width:1000px;
+	margin:auto;
+}
+
+header {
+	overflow: auto;
+}
+
+header h1 {
+	float: left;
+	width: 150px;
+	margin: 0px;
+	padding:0px;
+}
+
+header i {
+	float: right;
+	margin: 0px;
+	padding:10px;
+}
+
+main hr {
+	margin: 0px;
+	padding:0px;	
+}
+
+main {
+	padding: 0px;
+	overflow: auto;	
+}
+
+main .comment-input {
+	float: left;
+	width: 1000x;
+	margin: 0px;
+	padding:5px;
+}
+
+main .comments {
+	width: 700px;
+	float: right;
+	margin: 0px;
+	padding:0px;
+}
+footer p {
+	float: left;
+	width: 320px;
+	margin: 0px;
+	padding:0px;
+}
+
+.comments p {
+	background: white;
+	padding: 5px;
+	opacity:0.3;
+}
+
+input {
+	color: red;
+	width:180px;
+	height:20px;
+}
+
+button {
+	color: red;
+	height:35px;	
+}
+
+h1, p, i {
+	color:white;
+}
+
+main section.comments p{
+	color: black;
+}
+
+main section.comments p:hover{            
+	border:1px solid red;
+	opacity:1;
+	transition:2s all ;
+}
+
+main section.comment-input button:hover{          
+	border:2px solid red;
+	transition:3s all ;
+}
+
+main section.comment-input input:hover{          
+	border:2px solid red;
+	transition:3s all ;
+}
+
+table{
+	margin: auto;
+}
+
+th{
+	width: 5px;
+}
+
+footer table tr th h1{
+	opacity:0.3;
+}
+
+footer table tr th h1#a:hover{          
+	transform:rotate(3600deg) scale(2.5);
+	opacity:1;
+	transition:3s all ;
+}
+
+footer table tr th h1#b:hover{             
+	transform:rotate(-3600deg) scale(2.5);
+	opacity:1;
+	transition:3s all ;
+}
+
+footer table tr th h1#c:hover{            
+	transform:rotate(3600deg) scale(2.5);
+	opacity:1;
+	transition:3s all ;
+}
+
+footer table tr th h1#d:hover{             
+	transform:rotate(-3600deg) scale(2.5);
+	opacity:1;
+	transition:3s all ;
+}
+
+footer table tr th h1#e:hover{          
+	transform:rotate(3600deg) scale(2.5);
+	opacity:1;
+	transition:3s all ;
+}
+
+footer table tr th h1#f:hover{            
+	transform:rotate(-3600deg) scale(2.5);
+	opacity:1;
+	transition:3s all ;
+}
+
+footer table tr th h1#g:hover{           
+	transform:rotate(3600deg) scale(2.5);
+	opacity:1;
+	transition:3s all ;
+}
+
+footer table tr th h1#h:hover{           
+	transform:rotate(-3600deg) scale(2.5);
+	opacity:1;
+	transition:3s all ;
+}
+
+footer table tr th h1#j:hover{             
+	transform:rotate(3600deg) scale(2.5);
+	opacity:1;
+	transition:3s all ;
+}
+
+footer table tr th h1#k:hover{            
+	transform:rotate(-3600deg) scale(2.5);
+	opacity:1;
+	transition:3s all ;
+}
+
+footer p#L {
+	float: right;
+	width: 600px;
+	margin: 0px;
+	padding:0px;
+}
+
+#a1{
+	opacity:0.2;
+}
+
+#a2 {
+	opacity:0.3;
+	float: right;
+	margin: 0px;
+	padding:0px;
+}
+
+#a1:hover{             
+	border:1px solid red;
+	opacity:1;
+	transition:3s all ;
+}
+
+#a2:hover{             
+	border:1px solid red;
+	opacity:1;
+	transition:3s all ;
+}
